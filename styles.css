@@ -87,7 +87,7 @@
     text-decoration: underline;
   }
    
-  @media(max-width:568px){
+  @media(max-width:600px){
     h1{
       font-size: 48px;
     }
